@@ -3,4 +3,6 @@ inotify script to watch the download folder for a screenconnect jnlp file and th
 
 This is for using the screenconnect agent in linux.  Tested in Kubuntu 22.04
 
+apt install inotify-tools
+
 Download script.  chmod a+x.  add to system startup.
